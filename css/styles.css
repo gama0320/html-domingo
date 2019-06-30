@@ -50,7 +50,7 @@ p {
   display: inline-block;
   font-size: 18px;
   color: #fff;
-  background: #215b33;
+  background: #D68910;
   padding: 13px 20px;
   border: none;
   cursor: pointer;
@@ -62,17 +62,17 @@ p {
 
 .btn-light {
   background: #f4f4f4;
-  color: #215b33;
+  color: #D68910;
 }
 
 .bg-dark {
-  background: #215b33;
+  background: #D68910;
   color: #fff;
 }
 
 .bg-light {
   background: #f4f4f4;
-  color: #215b33;
+  color: #D68910;
 }
 
 .bg-primary {
@@ -103,7 +103,7 @@ p {
 
  /* Navbar */
  #navbar {
-   background: #215b33;
+   background: #D68910;
    color: #fff;
    overflow: auto;
  }
@@ -258,7 +258,7 @@ p {
 }
 
 #testimonials h2 {
-  color: #fff;
+  color: #2ECC71;
   text-align: center;
   padding-bottom: 40px;
 }
@@ -313,7 +313,7 @@ p {
 
 #main-footer {
   text-align: center;
-  background: #468d5c;
+  background: #9C640C;
   color: #fff;
   padding: 20px;
 }
